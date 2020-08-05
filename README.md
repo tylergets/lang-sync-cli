@@ -19,7 +19,7 @@ $ npm install -g lang-sync-cli
 $ lang-sync COMMAND
 running command...
 $ lang-sync (-v|--version|version)
-lang-sync-cli/0.0.0 linux-x64 node-v12.4.0
+lang-sync-cli/1.0.0 linux-x64 node-v12.4.0
 $ lang-sync --help [COMMAND]
 USAGE
   $ lang-sync COMMAND
@@ -62,7 +62,7 @@ OPTIONS
   -w, --write  write changes to file
 ```
 
-_See code: [src/commands/pull.ts](https://github.com/Development/lang-sync-cli/blob/v0.0.0/src/commands/pull.ts)_
+_See code: [src/commands/pull.ts](https://github.com/Development/lang-sync-cli/blob/v1.0.0/src/commands/pull.ts)_
 
 ## `lang-sync push [SERVER] [INPUT]`
 
@@ -77,5 +77,5 @@ OPTIONS
   -h, --help   show CLI help
 ```
 
-_See code: [src/commands/push.ts](https://github.com/Development/lang-sync-cli/blob/v0.0.0/src/commands/push.ts)_
+_See code: [src/commands/push.ts](https://github.com/Development/lang-sync-cli/blob/v1.0.0/src/commands/push.ts)_
 <!-- commandsstop -->

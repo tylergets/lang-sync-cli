@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "oclif",
+    "oclif-typescript"
+  ],
+  "rules": {
+    "block-scoped-var": "off",
+    "no-var": "off"
+  }
+}
